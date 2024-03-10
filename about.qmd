@@ -1,9 +1,28 @@
 ---
-title: "About"
+title: About Me
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+
+
+
+## Biography
+
+I am an Economics major with minors in Statistics and Environmental Studies at the University of Toronto, boasting a diverse background that blends rigorous academic training with real-world experience. My tenure as a Summer Analyst at China Lianhe Credit Rating Co., Ltd in Beijing was pivotal, enhancing my analytical skills and ability to communicate complex financial information effectively.
+
+My passion for making a tangible impact led me to engage in pro-bono consulting projects, including operational optimization for a micro-entrepreneur in South Africa and strategic advisory for an ESG tree planting start-up in Toronto. These experiences not only honed my problem-solving and strategic thinking but also underscored my commitment to sustainable development and community service.
+
+A fervent advocate for data-driven decision-making, I've explored economic factors impacting NYC schools through comprehensive research, employing advanced data management and visualization tools. My dedication extends beyond professional pursuits to community engagement, as evidenced by my leadership roles in the Scotiabank Toronto Waterfront Marathon and founding a high school table tennis club, reflecting my initiative and commitment to social responsibility.
+
+
+
+## Interests
+
+In my spare time, I enjoy building Lego sets, traveling, savoring various cuisines, watching movies, and playing video games, particularly Arena of Valor. If you share a passion for this game, feel free to get in touch with me.
+
+
+
+## Contact
+
+You can contact me at [dailin.li@mail.utoronto.ca](mailto:dailin.li@mail.utoronto.ca).
+

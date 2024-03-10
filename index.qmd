@@ -1,13 +1,9 @@
 ---
-title: "benwebsite"
+title: Home
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Welcome to my personal website! Here you can find information about my professional experience, projects, and academic background.
 
-[My CV](Ben Li_Resume.pdf)
+

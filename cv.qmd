@@ -1,0 +1,73 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Dailin Li
+
+**Contact Information**  
+- Phone: 647-451-2417  
+- Email: [benlidailin@gmail.com](mailto:benlidailin@gmail.com)
+
+## Education
+
+**University of Toronto**  
+- **Major:** Economics  
+- **Minors:** Statistics and Environmental Studies  
+
+- **Period:** September 2020 - June 2024  
+
+## Professional Experience
+
+### China Lianhe Credit Rating Co., Ltd, Beijing, China  
+**Summer Analyst, Financial Institutions Group**  
+_May 2021 - August 2021_
+
+- Facilitated effective communication with clients, capturing key information during financial interviews with banks and auto financing institutions.
+- Assisted in the completion of credit reports by organizing and accurately sorting historical business information and past financial activities.
+- Maintained clear and concise records for all parties involved by demonstrating strong organizational skills and attention to detail in preparing and maintaining meeting minutes.
+
+## Extracurricular Experiences
+
+### Pro-Bono Business Consulting Project, Cape Town, South Africa  
+**Consultant**  
+_May 2023 - June 2023_
+
+- Collaborated with a micro-entrepreneur to overcome operational challenges and boost business revenue, demonstrating problem-solving skills.
+- Worked in a team to devise and implement effective marketing strategies, demonstrating leadership and teamwork skills.
+- Led a team effort to digitize the original book-keeping process, enhancing clarity and enabling more insightful analysis of transactions.
+
+### Pro-Bono Consulting Project for an ESG Tree Planting Start-Up, Toronto, Canada  
+**Consultant**  
+_January 2023 - May 2023_
+
+- Teamed up with colleagues to conduct research and communicate global ESG trends and policies to a start-up tree planting company.
+- Collaborated with a team to provide the client with a comprehensive competitive analysis, offering insights into major players and the overall landscape.
+- Worked in a team to help the client understand large corporations' ESG investment strategies and communicated how they could leverage these policies to their advantage.
+
+## Skills & Competencies
+
+- **Data Analysis:** Proficient in utilizing Pandas library for efficient data cleaning, transformation, and aggregation. Demonstrated strong data management skills.
+- **Web Scraping:** Competent in scraping relevant data from various online sources using BeautifulSoup and Requests, demonstrating strong online research skills.
+- **Data Visualization:** Skilled in implementing data visualization using matplotlib and GeoPandas to effectively communicate findings, demonstrating strong presentation skills.
+- **Leadership:** Proven leadership skills through organizing and managing group members and assigning responsibilities during various projects and extracurricular activities.
+
+## Community Engagement
+
+### Scotiabank Toronto Waterfront Marathon, Toronto, Canada  
+**Group Leader**  
+_October 2017 - October 2020_
+
+- Contributed to the successful organization of the 2019 Scotiabank Toronto Waterfront Marathon, demonstrating strong community engagement skills.
+- Demonstrated leadership skills by organizing and managing group members and assigning responsibilities for various marathon stages.
+
+### High School Table Tennis Club, Toronto, Canada  
+**Founder and President**  
+_November 2018 - June 2020_
+
+- Founded a high school table tennis club, demonstrating strong initiative and engagement skills.
+- Spearheaded the organization of a school-wide table tennis competition, demonstrating strong leadership and teamwork skills.
+- Implemented innovative fundraising strategies to financially support the competition and promote club visibility, demonstrating strong strategic thinking skills.
+- Contributed extra funds raised from the event to a local charity group, demonstrating strong community engagement and social responsibility.
+
+
+Download my [CV (PDF)](Ben Li_Resume.pdf).

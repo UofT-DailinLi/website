@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Contact Information\n- Phone: 647-451-2417\n- Email: benlidailin@gmail.com\n\n\nUniversity of Toronto\n- Major: Economics\n- Minors: Statistics and Environmental Studies\n\nPeriod: September 2020 - June 2024\n\n\n\n\n\n\nSummer Analyst, Financial Institutions Group\nMay 2021 - August 2021\n\nFacilitated effective communication with clients, capturing key information during financial interviews with banks and auto financing institutions.\nAssisted in the completion of credit reports by organizing and accurately sorting historical business information and past financial activities.\nMaintained clear and concise records for all parties involved by demonstrating strong organizational skills and attention to detail in preparing and maintaining meeting minutes.\n\n\n\n\n\n\n\nConsultant\nMay 2023 - June 2023\n\nCollaborated with a micro-entrepreneur to overcome operational challenges and boost business revenue, demonstrating problem-solving skills.\nWorked in a team to devise and implement effective marketing strategies, demonstrating leadership and teamwork skills.\nLed a team effort to digitize the original book-keeping process, enhancing clarity and enabling more insightful analysis of transactions.\n\n\n\n\nConsultant\nJanuary 2023 - May 2023\n\nTeamed up with colleagues to conduct research and communicate global ESG trends and policies to a start-up tree planting company.\nCollaborated with a team to provide the client with a comprehensive competitive analysis, offering insights into major players and the overall landscape.\nWorked in a team to help the client understand large corporations’ ESG investment strategies and communicated how they could leverage these policies to their advantage.\n\n\n\n\n\n\nData Analysis: Proficient in utilizing Pandas library for efficient data cleaning, transformation, and aggregation. Demonstrated strong data management skills.\nWeb Scraping: Competent in scraping relevant data from various online sources using BeautifulSoup and Requests, demonstrating strong online research skills.\nData Visualization: Skilled in implementing data visualization using matplotlib and GeoPandas to effectively communicate findings, demonstrating strong presentation skills.\nLeadership: Proven leadership skills through organizing and managing group members and assigning responsibilities during various projects and extracurricular activities.\n\n\n\n\n\n\nGroup Leader\nOctober 2017 - October 2020\n\nContributed to the successful organization of the 2019 Scotiabank Toronto Waterfront Marathon, demonstrating strong community engagement skills.\nDemonstrated leadership skills by organizing and managing group members and assigning responsibilities for various marathon stages.\n\n\n\n\nFounder and President\nNovember 2018 - June 2020\n\nFounded a high school table tennis club, demonstrating strong initiative and engagement skills.\nSpearheaded the organization of a school-wide table tennis competition, demonstrating strong leadership and teamwork skills.\nImplemented innovative fundraising strategies to financially support the competition and promote club visibility, demonstrating strong strategic thinking skills.\nContributed extra funds raised from the event to a local charity group, demonstrating strong community engagement and social responsibility.\n\nDownload my CV (PDF)."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "University of Toronto\n- Major: Economics\n- Minors: Statistics and Environmental Studies\n\nPeriod: September 2020 - June 2024"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Summer Analyst, Financial Institutions Group\nMay 2021 - August 2021\n\nFacilitated effective communication with clients, capturing key information during financial interviews with banks and auto financing institutions.\nAssisted in the completion of credit reports by organizing and accurately sorting historical business information and past financial activities.\nMaintained clear and concise records for all parties involved by demonstrating strong organizational skills and attention to detail in preparing and maintaining meeting minutes."
+  },
+  {
+    "objectID": "cv.html#extracurricular-experiences",
+    "href": "cv.html#extracurricular-experiences",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Consultant\nMay 2023 - June 2023\n\nCollaborated with a micro-entrepreneur to overcome operational challenges and boost business revenue, demonstrating problem-solving skills.\nWorked in a team to devise and implement effective marketing strategies, demonstrating leadership and teamwork skills.\nLed a team effort to digitize the original book-keeping process, enhancing clarity and enabling more insightful analysis of transactions.\n\n\n\n\nConsultant\nJanuary 2023 - May 2023\n\nTeamed up with colleagues to conduct research and communicate global ESG trends and policies to a start-up tree planting company.\nCollaborated with a team to provide the client with a comprehensive competitive analysis, offering insights into major players and the overall landscape.\nWorked in a team to help the client understand large corporations’ ESG investment strategies and communicated how they could leverage these policies to their advantage."
+  },
+  {
+    "objectID": "cv.html#skills-competencies",
+    "href": "cv.html#skills-competencies",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Data Analysis: Proficient in utilizing Pandas library for efficient data cleaning, transformation, and aggregation. Demonstrated strong data management skills.\nWeb Scraping: Competent in scraping relevant data from various online sources using BeautifulSoup and Requests, demonstrating strong online research skills.\nData Visualization: Skilled in implementing data visualization using matplotlib and GeoPandas to effectively communicate findings, demonstrating strong presentation skills.\nLeadership: Proven leadership skills through organizing and managing group members and assigning responsibilities during various projects and extracurricular activities."
+  },
+  {
+    "objectID": "cv.html#community-engagement",
+    "href": "cv.html#community-engagement",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Group Leader\nOctober 2017 - October 2020\n\nContributed to the successful organization of the 2019 Scotiabank Toronto Waterfront Marathon, demonstrating strong community engagement skills.\nDemonstrated leadership skills by organizing and managing group members and assigning responsibilities for various marathon stages.\n\n\n\n\nFounder and President\nNovember 2018 - June 2020\n\nFounded a high school table tennis club, demonstrating strong initiative and engagement skills.\nSpearheaded the organization of a school-wide table tennis competition, demonstrating strong leadership and teamwork skills.\nImplemented innovative fundraising strategies to financially support the competition and promote club visibility, demonstrating strong strategic thinking skills.\nContributed extra funds raised from the event to a local charity group, demonstrating strong community engagement and social responsibility.\n\nDownload my CV (PDF)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "benwebsite",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nMy CV"
+    "text": "Welcome to my personal website! Here you can find information about my professional experience, projects, and academic background."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an Economics major with minors in Statistics and Environmental Studies at the University of Toronto, boasting a diverse background that blends rigorous academic training with real-world experience. My tenure as a Summer Analyst at China Lianhe Credit Rating Co., Ltd in Beijing was pivotal, enhancing my analytical skills and ability to communicate complex financial information effectively.\nMy passion for making a tangible impact led me to engage in pro-bono consulting projects, including operational optimization for a micro-entrepreneur in South Africa and strategic advisory for an ESG tree planting start-up in Toronto. These experiences not only honed my problem-solving and strategic thinking but also underscored my commitment to sustainable development and community service.\nA fervent advocate for data-driven decision-making, I’ve explored economic factors impacting NYC schools through comprehensive research, employing advanced data management and visualization tools. My dedication extends beyond professional pursuits to community engagement, as evidenced by my leadership roles in the Scotiabank Toronto Waterfront Marathon and founding a high school table tennis club, reflecting my initiative and commitment to social responsibility."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an Economics major with minors in Statistics and Environmental Studies at the University of Toronto, boasting a diverse background that blends rigorous academic training with real-world experience. My tenure as a Summer Analyst at China Lianhe Credit Rating Co., Ltd in Beijing was pivotal, enhancing my analytical skills and ability to communicate complex financial information effectively.\nMy passion for making a tangible impact led me to engage in pro-bono consulting projects, including operational optimization for a micro-entrepreneur in South Africa and strategic advisory for an ESG tree planting start-up in Toronto. These experiences not only honed my problem-solving and strategic thinking but also underscored my commitment to sustainable development and community service.\nA fervent advocate for data-driven decision-making, I’ve explored economic factors impacting NYC schools through comprehensive research, employing advanced data management and visualization tools. My dedication extends beyond professional pursuits to community engagement, as evidenced by my leadership roles in the Scotiabank Toronto Waterfront Marathon and founding a high school table tennis club, reflecting my initiative and commitment to social responsibility."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nIn my spare time, I enjoy building Lego sets, traveling, savoring various cuisines, watching movies, and playing video games, particularly Arena of Valor. If you share a passion for this game, feel free to get in touch with me."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nYou can contact me at dailin.li@mail.utoronto.ca."
   }
 ]
